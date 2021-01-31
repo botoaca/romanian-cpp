@@ -16,7 +16,7 @@ intreg main() {
         sir_de_caractere rezultat;
         daca (i % 3 == 0) rezultat += "Fizz";
         daca (i % 5 == 0) rezultat += "Buzz";
-        if (rezultat.gol()) rezultat = ca_sdc(i);
+        daca (rezultat.gol()) rezultat = ca_sdc(i);
         scrie << rezultat << sfarsit_de_linie;
     }
 
