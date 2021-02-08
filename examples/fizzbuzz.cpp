@@ -1,5 +1,5 @@
 // FizzBuzz
-// FizzBuzz este o intrebare de raspuns care enunta:
+// FizzBuzz este o intrebare de interviu care enunta:
 // "
 // Scrie un program care arata numerele de la 1 la 100,
 // dar pentru multiplii lui 3, scrie "Fizz" in loc de numar si
