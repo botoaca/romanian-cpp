@@ -16,11 +16,6 @@ bool este_par(int n) {
     else return false;
 }
 
-bool este_impar(int n) {
-    if (n % 2 == 0) return false;
-    else return true;
-}
-
 // Definitii utilitare
 #define foloseste using namespace
 #define spatiu " "
