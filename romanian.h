@@ -19,6 +19,11 @@ bool este_par(int n) {
 // Definitii utilitare
 #define foloseste using namespace
 #define spatiu " "
+#define egal =
+#define mod %
+#define diferit <>
+#define si &&
+#define sau ||
 
 // C++
 #define vid void
